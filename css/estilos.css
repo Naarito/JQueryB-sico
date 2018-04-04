@@ -1,0 +1,39 @@
+.borda {
+    border-radius: 20px;
+    border: solid 3px purple;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.frase {
+    font-size: 20px;
+    text-align: left;
+}
+
+.campo-digitacao {
+    font-size: 20px;
+    height: 200px;
+    background-color: rgb(249, 249, 249);
+    border-radius: 6px;
+    text-align: left;
+    border: 4px solid black;
+}
+
+.campo-desabilitado {
+    background-color: #c3c0c0;
+}
+
+.icones {
+    vertical-align: middle;
+}
+
+.borda-campo-OK {
+    border: 4px solid rgb(92, 184, 92);
+}
+
+.borda-campo-NOK {
+    border: 4px solid rgb(217, 83, 79);
+}
